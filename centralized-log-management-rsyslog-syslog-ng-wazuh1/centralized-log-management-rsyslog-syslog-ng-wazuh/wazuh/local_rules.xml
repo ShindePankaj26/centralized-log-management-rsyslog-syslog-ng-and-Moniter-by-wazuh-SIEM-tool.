@@ -1,0 +1,6 @@
+<group name="custom,ssh">
+  <rule id="100100" level="7">
+    <decoded_as>sshd</decoded_as>
+    <description>Failed SSH Login Detected</description>
+  </rule>
+</group>
